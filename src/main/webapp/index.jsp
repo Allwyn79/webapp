@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>DevOps demo</title>
+    <title>NM DevOps demo</title>
 
 
     <!-- Custom styles for this template -->
@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello!</h1>
-        <p> Devops team demo test</p>
+        <p> Devops team demo V1</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
@@ -80,7 +80,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; NM 2020</p>
     </footer>
 </div> <!-- /container -->
 
