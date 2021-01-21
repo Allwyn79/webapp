@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello Everyone!</h1>
-        <p> Second demo built by Devops team GCP sorage from CICD</p>
+        <p> Second demo built by Devops team GCP sorage from CICD V!</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
